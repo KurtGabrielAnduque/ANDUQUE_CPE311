@@ -1,1 +1,2 @@
 # ANDUQUE_CPE311
+Hello, everyone! My name is Kurt Gabriel A. Anduque, and I'm a second-year computer engineering student. My friends know me as a funny and chill guy. I chose computer engineering because I am interested in programming. I am currently pursuing a specialization in data science. This repository will serve as my learning journey for my elective program, and I hope it will be enjoyable and exciting 😊.
